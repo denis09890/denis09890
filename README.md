@@ -8,16 +8,16 @@ I’ve always been curious about how things work behind the screen, which led me
 
 ## Technical Skills
 
-**Programming Languages : **
+**Programming Languages :**
 C / C++, Java, JavaScript, SQL, Assembly
 
-**Core Concepts : **
+**Core Concepts :**
 * Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
 * Database Design & Normalization
 * Software Engineering Principles
 
-**Tools & Technologies : **
+**Tools & Technologies :**
 Git, VS Code, IntelliJ IDEA, MySQL, GitHub Actions
 
 ## Selected Projects
