@@ -14,11 +14,12 @@ C / C++, Java, VHDL, SQL, Assembly x86
 **Core Concepts :**
 * Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
-* Database Design & Normalization
+* Relational Databases
 * Software Engineering Principles
+* Mathematics
 
 **Tools & Technologies :**
-Git, VS Code, IntelliJ IDEA, MySQL, GitHub Actions
+Git, VS Code, IntelliJ IDEA, MySQL, GitHub Actions, Vivado
 
 ---
 
@@ -35,7 +36,7 @@ Dependent Resistor) sensor pair. Developed the control logic in Arduino IDE to t
 (buzzer) upon beam interruption, ensuring immediate detection of intrusions. Integrated multiple analog and
 digital sensors.
 
-----
+---
 
 ## Currently Seeking
 Internship or junior opportunities in:
