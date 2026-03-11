@@ -46,4 +46,4 @@ Internship or junior opportunities in:
 
 ## How to reach me:
 * 📫 denis.gabriel2988@gmail.com
-* 🔗 https://www.linkedin.com/in/denis-gabriel-pintilii/
+* 🔗 [linkedin](https://www.linkedin.com/in/denis-gabriel-pintilii/)
