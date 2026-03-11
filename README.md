@@ -9,7 +9,7 @@ I’ve always been curious about how things work behind the screen, which led me
 ## Technical Skills
 
 **Programming Languages :**
-C / C++, Java, JavaScript, SQL, Assembly
+C / C++, Java, VHDL, SQL, Assembly x86
 
 **Core Concepts :**
 * Data Structures & Algorithms
