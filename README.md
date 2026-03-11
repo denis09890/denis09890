@@ -20,6 +20,8 @@ C / C++, Java, VHDL, SQL, Assembly x86
 **Tools & Technologies :**
 Git, VS Code, IntelliJ IDEA, MySQL, GitHub Actions
 
+---
+
 ## Selected Projects
 
 ### Linear Feedback Shift Register (LFSR)
@@ -32,6 +34,8 @@ Designed and assembled a real-time security system using an Arduino microcontrol
 Dependent Resistor) sensor pair. Developed the control logic in Arduino IDE to trigger an audible alarm
 (buzzer) upon beam interruption, ensuring immediate detection of intrusions. Integrated multiple analog and
 digital sensors.
+
+----
 
 ## Currently Seeking
 Internship or junior opportunities in:
