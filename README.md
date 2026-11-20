@@ -1,49 +1,38 @@
-# Denis Gabriel Pintilii
+# Hi, I'm Denis 👋
 
-Hi, I’m Denis Gabriel Pintilii. I’m currently in my thirdyear studying Computer Science and IT at the Technical University of Cluj-Napoca.
+3rd-year **Computers & Information Technology** student at the Technical University of Cluj-Napoca (UTCN),
+looking for a **Software Engineering internship for Summer 2027** (Cluj, Bucharest, Iași, EU or remote).
 
-I’ve always been curious about how things work behind the screen, which led me to programming and automation. Right now, I’m focused on building a solid foundation in software development and I enjoy the process of solving a tough problem or learning a new framework.
-
----
-
-## Technical Skills
-
-**Programming Languages :**
-C / C++, Java, VHDL, SQL, Assembly x86
-
-**Core Concepts :**
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Relational Databases
-* Software Engineering Principles
-* Mathematics
-
-**Tools & Technologies :**
-Git, VS Code, IntelliJ IDEA, MySQL, GitHub Actions, Vivado
+I build backend services and full-stack applications in **Python and Java**, and I have a systems
+background in **C, operating systems and FPGA design**.
 
 ---
 
-## Selected Projects
+## 🚀 Featured project
 
-### Linear Feedback Shift Register (LFSR)
-Designed and implemented an LFSR-based counter system optimized for FPGA technology. Developed a
-flexible architecture that supports both 4-bit and 5-bit configurations with adjustable cycle lengths. Validated
-system logic through simulation and hardware testing to ensure precise pseudo-random sequence generation.
+### [U-Scout: AI Football Scouting Platform](https://github.com/denis09890/u_scout)
+Full-stack scouting platform built on the Transfermarkt dataset (12 tables, 1.8M+ match appearances).
+- Natural-language player search in Romanian, translated into SQL filters
+- LLM-generated scouting reports grounded in database records (Groq)
+- FastAPI + SQLite backend, React 19 + Tailwind frontend, pytest suite, Docker Compose
 
-### Laser Security System
-Designed and assembled a real-time security system using an Arduino microcontroller and a laser-LDR (Light
-Dependent Resistor) sensor pair. Developed the control logic in Arduino IDE to trigger an audible alarm
-(buzzer) upon beam interruption, ensuring immediate detection of intrusions. Integrated multiple analog and
-digital sensors.
+`Python` `FastAPI` `SQLite` `Pandas` `React` `Docker` `pytest`
 
 ---
 
-## Currently Seeking
-Internship or junior opportunities in:
-* Software Engineering
-* Backend Development
-* Web Development
+## 🛠️ Tech stack
 
-## How to reach me:
-* 📫 denis.gabriel2988@gmail.com
-* 🔗 [linkedin](https://www.linkedin.com/in/denis-gabriel-pintilii/)
+| Area | Technologies |
+|------|--------------|
+| Languages | Java, Python, C/C++, SQL, JavaScript, Haskell, Elm, x86 Assembly, VHDL |
+| Backend | Spring Boot, FastAPI, Node.js, REST APIs, JDBC |
+| Databases & Data | PostgreSQL, MySQL, SQLite, Pandas, NumPy |
+| Frontend | React, Vite, Tailwind CSS |
+| Testing & DevOps | JUnit, pytest, Docker, Git/GitHub, Linux/Bash, Google Cloud |
+| Hardware | FPGA (Vivado), Arduino |
+
+---
+
+## 📫 Contact
+- Email: denis.gabriel2988@gmail.com
+- LinkedIn: [linkedin.com/in/denis-gabriel-pintilii](https://www.linkedin.com/in/denis-gabriel-pintilii/)
